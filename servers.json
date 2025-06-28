@@ -4,5 +4,11 @@
       "name": "Сервер 01",
       "online": 24,
       "maxonline": 100
+    },
+    {
+      "x2": "",
+      "name": "Сервер TEST",
+      "online": 0,
+      "maxonline": 0
     }
  ]
